@@ -1,4 +1,4 @@
 - Approach: binary search, sparse table, functional graph
 - Complexity: O(n*log(n))
-- Learned: functional graph is a directed graph where each node has exactly one outgoing edge. Functional graph has exactly one cycle per component.
+- Learned: functional graph is a directed graph where each node has exactly one outgoing edge. Functional graph has exactly one cycle per component
 - Notion Link: https://www.notion.so/BOJ-34550-2a6319c9fbfb80d19a9fd77248bed5d9?v=2a6319c9fbfb8071b438000cb9cc60e8&source=copy_link
