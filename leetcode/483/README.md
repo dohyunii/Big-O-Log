@@ -1,0 +1,4 @@
+- Approach: dfs
+- Complexity: log(n)
+- Learned: approximating divisions
+- Mistakes: should have used unsigned long long int
