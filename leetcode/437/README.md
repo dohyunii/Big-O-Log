@@ -1,3 +1,4 @@
 - Approach: dynamic programming, tree
-- Complexity: O(n)
+- Space Complexity: O(n)
+- Time Complexity: O(n)
 - Mistakes: assigned dp[0]=1 after executing dfs() resulted in a wrong answer
