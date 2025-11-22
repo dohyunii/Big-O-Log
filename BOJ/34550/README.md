@@ -1,3 +1,4 @@
 - Approach: binary search, sparse table, functional graph
-- Complexity: O(n*log(n))
-- Learned: functional graph is a directed graph where each node has exactly one outgoing edge. Functional graph has exactly one cycle per component
+- Space Complexity: O(n*log(n))
+- Time Complexity: O(n*log(n))
+- Learned: functional graph is a directed graph where each node has exactly one outgoing edge. Functional graph has exactly one cycle per component.
