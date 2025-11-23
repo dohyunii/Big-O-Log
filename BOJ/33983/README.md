@@ -1,0 +1,4 @@
+- Approach: greedy
+- Space Complexity: O(n)
+- Time Cimplexity: O(n)
+- Related Problems: https://www.acmicpc.net/problem/34713
