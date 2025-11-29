@@ -1,0 +1,4 @@
+- Approach: greedy, ad-hoc, prefix sum
+- Space Complexity: O(n)
+- Time Complexity: O(n)
+- Learned: Using prefix sums to find the minimum number of swaps required
