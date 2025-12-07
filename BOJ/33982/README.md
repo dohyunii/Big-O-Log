@@ -1,0 +1,4 @@
+- Approach: implementaion, data structures, sorting, binary search, set/map, priority_queue
+- Space Complexity: O
+- Time Complexity: O
+- Mistakes: O(m\*log(m) + Σk*log(Σk)
