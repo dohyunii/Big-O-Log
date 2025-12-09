@@ -1,0 +1,3 @@
+- Approach: dynamic programming
+- Space Complexity: O(n)
+- Time Complexity: O(nk)
