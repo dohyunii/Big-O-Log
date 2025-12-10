@@ -1,0 +1,3 @@
+- Approach: dynamic programming
+- Space Complexity: O(|s|*|t|)
+- Time Complexity: O(|s|*|t|)
