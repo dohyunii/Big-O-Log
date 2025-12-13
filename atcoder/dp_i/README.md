@@ -1,3 +1,4 @@
 - Approach: probability theory, dynamic programming
 - Space Complexity: O(N)
 - Time Complexity: O(N^2)
+- Learned: iterate dp from back to avoid initializing second array for memorization of previous states
