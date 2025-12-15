@@ -1,0 +1,4 @@
+- Approach: bitmask, combinatorics, mathematics
+- Space Complexity: O(N)
+- Time Complexity: O(N)
+- Learned: new way to imagine about XOR operation subset. Adding 1 bit in subset, it flips the XOR total.
