@@ -2,8 +2,7 @@
 **Difficulty:** Platinum 4
 
 ## 1. Problem Description
-[Link]([text](https://www.acmicpc.net/problem/33968))
-[Link](https://www.acmicpc.net/problem/33968)
+[BOJ-33968: 클-린드롬 부분 문자열](https://www.acmicpc.net/problem/33968)
 
 ## 2. Complexity Analys
 * **Space Complexity:** O($n$)
