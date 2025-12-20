@@ -1,6 +1,6 @@
 ## [[BOJ-33977] K-POP](https://www.acmicpc.net/problem/33977)
 
-> **Topic:** Tree, Ad-hoc, Constructive
+> **Topic:** Tree, Ad-hoc, Constructive\
 > **Difficulty:** Gold IV
 
 ### Complexity Analysis
