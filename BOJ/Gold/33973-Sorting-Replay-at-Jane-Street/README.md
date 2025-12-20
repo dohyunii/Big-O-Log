@@ -1,7 +1,7 @@
 ## [[BOJ-33973] Sorting Replay at Jane Street](https://www.acmicpc.net/problem/33973)
 
-> **Topic:** Mathematics, Sorting, Combinatorics
-> **Difficulty:** Platinum IV
+> **Topic:** Mathematics, Sorting, Combinatorics\
+> **Difficulty:** Gold I
 
 ### Complexity Analysis
 * **Time Complexity:** $O(NQ \log N)$ — For each of the $Q$ queries, the algorithm performs a sorting operation or group re-assignment on $N$ rows.
