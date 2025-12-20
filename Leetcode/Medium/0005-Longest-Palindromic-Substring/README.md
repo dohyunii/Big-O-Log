@@ -1,6 +1,6 @@
 ## [[LC-0005] Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 
-> **Topic:** Binary Search, Hashing
+> **Topic:** Binary Search, Hashing\
 > **Difficulty:** Medium
 
 ### Complexity Analysis
