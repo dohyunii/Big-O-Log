@@ -1,6 +1,6 @@
 ## [[LC-1836] Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)
 
-> **Topic:** Bitmask, Combinatorics, Mathematics\
+> **Topic:** Bitmask, Combinatorics, Mathematics
 > **Difficulty:** Easy
 
 ### Complexity Analysis

@@ -1,6 +1,6 @@
 ## [[LC-0437] Path Sum III](https://leetcode.com/problems/path-sum-iii/)
 
-> **Topic:** Dynamic Programming, Tree\
+> **Topic:** Dynamic Programming, Tree
 > **Difficulty:** Medium
 
 ### Complexity Analysis

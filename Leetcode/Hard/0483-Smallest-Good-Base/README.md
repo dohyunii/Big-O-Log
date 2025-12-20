@@ -1,6 +1,6 @@
 ## [[LC-0483] Smallest Good Base](https://leetcode.com/problems/smallest-good-base/)
 
-> **Topic:** DFS\
+> **Topic:** DFS
 > **Difficulty:** Hard
 
 ### Complexity Analysis
