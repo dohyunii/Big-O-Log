@@ -1,6 +1,6 @@
 ## [[BOJ-33983] 물과 응애 (Water and Waa)](https://www.acmicpc.net/problem/33983)
 
-> **Topic:** Greedy
+> **Topic:** Greedy\
 > **Difficulty:** Gold IV
 
 ### Complexity Analysis

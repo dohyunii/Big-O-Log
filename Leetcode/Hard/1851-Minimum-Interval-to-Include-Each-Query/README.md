@@ -1,6 +1,6 @@
 ## [[LC-1851] Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/description/)
 
-> **Topic:** Binary Search, Sweeping, Sorting, Priority Queue
+> **Topic:** Binary Search, Sweeping, Sorting, Priority Queue\
 > **Difficulty:** Hard
 
 ### Complexity Analysis

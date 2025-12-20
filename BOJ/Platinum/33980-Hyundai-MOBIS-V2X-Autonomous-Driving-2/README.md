@@ -1,6 +1,6 @@
 ## [[BOJ-33980] 현대모비스 V2X 자율주행 2 (Hyundai MOBIS V2X Autonomous Driving 2)](https://www.acmicpc.net/problem/33980)
 
-> **Topic:** Greedy, Ad-Hoc, Prefix Sum
+> **Topic:** Greedy, Ad-Hoc, Prefix Sum\
 > **Difficulty:** Platinum 3
 
 ### Complexity Analysis

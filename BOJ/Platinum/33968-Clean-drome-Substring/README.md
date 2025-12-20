@@ -1,6 +1,6 @@
 ## [[BOJ-33968] 클-린드롬 부분 문자열 (Clean-drome Substring)](https://www.acmicpc.net/problem/33968)
 
-> **Topic:** String, Hashing, Manacher's  
+> **Topic:** String, Hashing, Manacher's\
 > **Difficulty:** Platinum 4
 
 ### Complexity Analysis

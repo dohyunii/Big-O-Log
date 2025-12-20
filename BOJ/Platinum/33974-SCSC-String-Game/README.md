@@ -1,6 +1,6 @@
 ## [[BOJ-33974] SCSC 문자열 놀이 (SCSC String Game)](https://www.acmicpc.net/problem/33974)
 
-> **Topic:** Mathematics, Dynamic Programming, Bitmask, Case Work
+> **Topic:** Mathematics, Dynamic Programming, Bitmask, Case Work\
 > **Difficulty:** Platinum 3
 
 ### Complexity Analysis

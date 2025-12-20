@@ -1,6 +1,6 @@
 ## [[LC-0016] 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
 
-> **Topic:** Binary Search, Hashing, Two-pointers
+> **Topic:** Binary Search, Hashing, Two-pointers\
 > **Difficulty:** Medium
 
 ### Complexity Analysis

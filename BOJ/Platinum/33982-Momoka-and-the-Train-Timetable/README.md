@@ -1,6 +1,6 @@
 ## [[BOJ-33982] 모모카와 열차 운행표 (Momoka and the Train Timetable)](https://www.acmicpc.net/problem/33982)
 
-> **Topic:** Implementation, Data Structures, Soring, Binary Search, Simulation, Set/Map, Priority Queue
+> **Topic:** Implementation, Data Structures, Soring, Binary Search, Simulation, Set/Map, Priority Queue\
 > **Difficulty:** Platinum 3
 
 ### Complexity Analysis

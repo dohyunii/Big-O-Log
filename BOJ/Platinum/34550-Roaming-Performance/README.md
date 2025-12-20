@@ -1,6 +1,6 @@
 ## [[BOJ-34550] 순회 공연 (Roaming Performance)](https://www.acmicpc.net/problem/34550)
 
-> **Topic:** Binary Search, Sparce Table, Functional Graph
+> **Topic:** Binary Search, Sparce Table, Functional Graph\
 > **Difficulty:** Platinum 4
 
 ### Complexity Analysis

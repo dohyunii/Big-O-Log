@@ -1,6 +1,6 @@
 ## [[BOJ-34712] 최댓값 찾기 (Finding the Maximum)](https://www.acmicpc.net/problem/34712)
 
-> **Topic:** Binary Search, Mathematics
+> **Topic:** Binary Search, Mathematics\
 > **Difficulty:** Gold II
 
 ### Complexity Analysis
