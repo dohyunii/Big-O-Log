@@ -1,8 +1,6 @@
-> **Topic:** string, hashing, Manacher's\
+# [BOJ-33968: 클-린드롬 부분 문자열 (Clean-drome Substring)](https://www.acmicpc.net/problem/33968)
+> **Topic:** string, hashing, Manacher's
 > **Difficulty:** Platinum 4
-
-## 1. Problem Description
-[BOJ-33968: 클-린드롬 부분 문자열 (Clean-drome Substring)](https://www.acmicpc.net/problem/33968)
 
 ## 2. Complexity Analys
 * **Space Complexity:** $O(n)$
