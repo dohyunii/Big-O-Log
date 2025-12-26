@@ -7,8 +7,9 @@
 * **Space Complexity:** $O(N)$
 
 ### Mistakes & Lessons
-**Lesson:** Binary Indexed Tree support point update and range maximum/minimum queries, but only on the prefix range [1:r].
+**Lesson:** Binary Indexed Tree support point update and range maximum/minimum queries, but only on the prefix range [1:r].\
 **Mistake: ** Be careful with data types: the type of the argument passed to the function must match the type of the destination variable.
+
 
 
 ---
