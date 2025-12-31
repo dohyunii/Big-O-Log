@@ -22,28 +22,32 @@ template <int MOD> struct ModInt {
   friend ostream& operator<<(ostream &os, ModInt a) { os << a.x; return os; }
 };
 typedef ModInt<1000000007> mint;
-const int mod = 1e9 + 7, mxn = 1e4 + 5, mxd = 105;
-string x;
+const int mxn = 1e4 + 5, mxd = 105;
+string x, y;
 int d, n;
-mint dp[mxn][2][mxd];
-mint solve(int pos, bool f, int c){
+mint dp[mxn][2][2][mxd];
+mint solve(int pos, bool fl, bool fr, int c){
     if(pos == n){
         return !c;
     }
-    if(dp[pos][f][c].get() != -1){
-        return dp[pos][f][c];
+    if(dp[pos][fl][fr][c].get() != -1){
+        return dp[pos][fl][fr][c];
     }
-    dp[pos][f][c] = 0;
-    for(int i = 0; i <= (f ? 9 : x[pos] - '0'); ++i){
-        dp[pos][f][c] += solve(pos + 1, f | (i < x[pos] - '0'), (c + i) % d);
+    dp[pos][fl][fr][c] = 0;
+    for(int i = (fl ? 0 : y[pos] - '0'); i <= (fr ? 9 : x[pos] - '0'); ++i){
+        dp[pos][fl][fr][c] += solve(pos + 1, fl | (i > y[pos] - '0'), fr | (i < x[pos] - '0'), (c + i) % d);
     }
-    return dp[pos][f][c];
+    return dp[pos][fl][fr][c];
 }
 int main(){
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
     memset(dp, -1, sizeof(dp));
     cin >> x >> d;
+    while((int)y.size() + 1 < (int)x.size()){
+        y.push_back('0');
+    }
+    y.push_back('1');
     n = (int)x.size();
-    cout << (solve(0, false, 0).get() - 1 + mod) % mod;
+    cout << solve(0, false, false, 0);
 }
