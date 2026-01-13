@@ -8,6 +8,7 @@
 
 ### Mistakes & Lessons
 **Lesson:** New concept of updating dp only when reaching the end.\
+**Mistake:** Should have put max(0, t[1]), not when updating the dp, because the logic was that we put 1 at i-th position.
 
 
 
